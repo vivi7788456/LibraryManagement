@@ -1,0 +1,16 @@
+com\mycompany\librarymanagement\StudentReader.class
+com\mycompany\librarymanagement\BorrowRecord.class
+com\mycompany\librarymanagement\IManager.class
+com\mycompany\librarymanagement\TeacherReader.class
+com\mycompany\librarymanagement\BorrowMenu.class
+com\mycompany\librarymanagement\NormalReader.class
+com\mycompany\librarymanagement\Book.class
+com\mycompany\librarymanagement\LibraryManagement.class
+com\mycompany\librarymanagement\Reader.class
+com\mycompany\librarymanagement\ReaderMenu.class
+com\mycompany\librarymanagement\Database.class
+com\mycompany\librarymanagement\BookMenu.class
+com\mycompany\librarymanagement\BookManager.class
+com\mycompany\librarymanagement\BorrowManager.class
+com\mycompany\librarymanagement\ReaderManager.class
+com\mycompany\librarymanagement\TextBook.class
